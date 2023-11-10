@@ -1,0 +1,84 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Heeriye",
+      "url": "https://i.ytimg.com/vi/KDjmKFjxXt0/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/RLzC55ai0eo"
+    },
+    {
+      "id": "2",
+      "caption": "Neela Nilave",
+      "url": "https://timesofindia.indiatimes.com/photo/msid-103197447/103197447.jpg?resizemode=4",
+      "embedLink": "https://www.youtube.com/embed/nYEoxne_20Y"
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "Malayalam Movie songs",
+      "allvideos": [],
+      "id": 1
+    },
+    {
+      "categoryName": "Hindi Movie songs",
+      "allvideos": [
+        {
+          "id": "2",
+          "caption": "Neela Nilave",
+          "url": "https://timesofindia.indiatimes.com/photo/msid-103197447/103197447.jpg?resizemode=4",
+          "embedLink": "https://www.youtube.com/embed/nYEoxne_20Y"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "Latest songs",
+      "allvideos": [],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "Neela Nilave",
+      "embedLink": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "timeStamp": "11/08/2023, 01:29:50 AM",
+      "id": 4
+    },
+    {
+      "caption": "Heeriye",
+      "embedLink": "https://www.youtube.com/embed/RLzC55ai0eo",
+      "timeStamp": "11/08/2023, 01:53:07 AM",
+      "id": 5
+    },
+    {
+      "caption": "Neela Nilave",
+      "embedLink": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "timeStamp": "11/09/2023, 11:38:45 PM",
+      "id": 6
+    },
+    {
+      "caption": "Heeriye",
+      "embedLink": "https://www.youtube.com/embed/RLzC55ai0eo",
+      "timeStamp": "11/09/2023, 11:44:29 PM",
+      "id": 7
+    },
+    {
+      "caption": "Neela Nilave",
+      "embedLink": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "timeStamp": "11/10/2023, 12:19:31 AM",
+      "id": 8
+    },
+    {
+      "caption": "Neela Nilave",
+      "embedLink": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "timeStamp": "11/10/2023, 12:19:34 AM",
+      "id": 9
+    },
+    {
+      "caption": "Heeriye",
+      "embedLink": "https://www.youtube.com/embed/RLzC55ai0eo",
+      "timeStamp": "11/10/2023, 12:33:25 AM",
+      "id": 10
+    }
+  ]
+}
